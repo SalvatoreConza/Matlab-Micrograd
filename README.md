@@ -1,4 +1,4 @@
-# Micrograd in MATLAB
+# 🧮 Micrograd in MATLAB
 
 A MATLAB porting of [Andrej Karpathy's micrograd](https://github.com/karpathy/micrograd) — a tiny autograd engine and neural network library built from scratch for educational purposes.
 
